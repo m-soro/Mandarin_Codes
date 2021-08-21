@@ -1,6 +1,4 @@
-## Mandarin_Codes
-
-A list of Mandarin Codes that I wrote
+Various codes that I wrote :smiley:
 
 | Description                    | Link                                                                                            |
 |--------------------------------|-------------------------------------------------------------------------------------------------|
